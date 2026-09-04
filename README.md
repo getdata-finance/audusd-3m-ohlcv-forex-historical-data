@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `3m` sample updated in sync
 
-> **Sample on GitHub** · `AUDUSD_3m.csv` (18,483 rows, `2026-07-09` -> `2026-09-02`, 1.86 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/audusd)** — **1,756,328** `3m` rows (full `1m`: 5,263,593), **11 timeframes**, `2012-06-24` -> `2026-09-02`.
+> **Sample on GitHub** · `AUDUSD_3m.csv` (18,480 rows, `2026-07-09` -> `2026-09-02`, 1.86 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/audusd)** — **1,756,328** `3m` rows (full `1m`: 5,263,475), **11 timeframes**, `2012-06-24` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Australian Dollar / US Dollar · Forex | Australian Dollar / US Dollar · Forex |
 | Timeframes | `3m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 3m rows | 18,483 | **1,756,328** |
+| 3m rows | 18,480 | **1,756,328** |
 | Size | 1.86 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/audusd) |
 | Period | `2026-07-09` -> `2026-09-02` | `2012-06-24` -> `2026-09-02` |
 | File | `AUDUSD_3m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/audusd) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`AUDUSD_3m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T13:21:00+00:00 | 0.70778 | 0.70783 | 0.70775 | 0.7078 | 355 |
-| 2026-07-09T13:24:00+00:00 | 0.7078 | 0.70786 | 0.70776 | 0.70783 | 332 |
-| 2026-07-09T13:27:00+00:00 | 0.70783 | 0.70785 | 0.70774 | 0.70777 | 295 |
 | 2026-07-09T13:30:00+00:00 | 0.70777 | 0.70795 | 0.70766 | 0.70778 | 769 |
 | 2026-07-09T13:33:00+00:00 | 0.70778 | 0.70792 | 0.70766 | 0.70781 | 596 |
+| 2026-07-09T13:36:00+00:00 | 0.70781 | 0.70795 | 0.7078 | 0.70788 | 567 |
+| 2026-07-09T13:39:00+00:00 | 0.70788 | 0.70795 | 0.70777 | 0.70795 | 588 |
+| 2026-07-09T13:42:00+00:00 | 0.70795 | 0.70814 | 0.70794 | 0.70805 | 517 |
 
 **Last rows**
 
